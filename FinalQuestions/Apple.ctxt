@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Apple
+comment1.params=variety\ color\ weight
+comment1.target=Apple(java.lang.String,\ java.awt.Color,\ int)
+comment2.params=other
+comment2.target=int\ compareTo(Apple)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
